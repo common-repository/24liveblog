@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon_24px_next_normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_24px_next_normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" stroke="#171338" x="0.5" y="0.5" width="23" height="23" rx="4"></rect>
+            <path d="M13.7682213,9.92186554 L16.6331797,13.3598156 C16.9867437,13.7840925 16.9294197,14.4146572 16.5051428,14.7682213 C16.3254278,14.9179838 16.0988949,15 15.8649584,15 L10.1350416,15 C9.58275686,15 9.13504161,14.5522847 9.13504161,14 C9.13504161,13.7660635 9.21705783,13.5395306 9.36682033,13.3598156 L12.2317787,9.92186554 C12.5853428,9.49758864 13.2159075,9.44026457 13.6401844,9.79382866 C13.6866475,9.83254788 13.7295021,9.87540247 13.7682213,9.92186554 Z" id="三角形" fill="#171338" transform="translate(13.000000, 12.000000) scale(1, -1) rotate(-270.000000) translate(-13.000000, -12.000000) "></path>
+        </g>
+    </g>
+</svg>

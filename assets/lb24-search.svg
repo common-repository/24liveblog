@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon_16px_search_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="icon_16px_search_normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="蒙版"></g>
+            <g mask="url(#mask-2)">
+                <g transform="translate(8.630127, 8.762178) rotate(-30.000000) translate(-8.630127, -8.762178) translate(3.630127, 1.762178)">
+                    <circle id="椭圆形" stroke="#171338" stroke-width="1.4" fill="none" transform="translate(5.000000, 5.000000) rotate(-360.000000) translate(-5.000000, -5.000000) " cx="5" cy="5" r="4.3"></circle>
+                    <rect id="矩形" stroke="none" fill="#171338" fill-rule="evenodd" transform="translate(5.130127, 11.196152) rotate(-360.000000) translate(-5.130127, -11.196152) " x="4.43012702" y="9.19615242" width="1.4" height="4" rx="0.7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
